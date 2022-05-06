@@ -1,2 +1,2 @@
 # working-dir-clean
-This is a final update. and couting
+This is a final update
